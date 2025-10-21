@@ -102,4 +102,4 @@ def api_calc():
 
 if __name__ == '__main__':
     # debug=False для безопасного поведения (не показывать stacktrace)
-    app.run(host='127.0.0.1', port=5001, debug=False)
+    app.run(host='127.0.0.1', port=8889, debug=False)
